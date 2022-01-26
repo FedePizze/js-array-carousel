@@ -10,6 +10,9 @@
     position: relative;
 }
 
+
+
+/* STRUTTURA */
 .slider{
     width: 85%;
     height: 550px;
@@ -32,6 +35,9 @@
     position: relative;
 }
 
+
+
+/* REGOLE PER IMMAGINI BLOCCO 1 */
 .bk{
     width: 100%;
     height: 100%;
@@ -58,6 +64,9 @@
     color: white;
 }
 
+
+
+/* REGOLE PER IMMAGINI BLOCCO 2 */
 .picture{
     width: 100%;
     height: 20%;
@@ -72,6 +81,9 @@
     border: 5px solid white;
 }
 
+
+
+/* STILIZZAZIONE FRECCIE */
 #arrowUp, #arrowDown{
     width: 50px;
     height: 50px;
